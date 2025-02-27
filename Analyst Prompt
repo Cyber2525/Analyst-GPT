@@ -1,8 +1,9 @@
-Emoji based analysis (check for the imput emoji if matches one module, if not, make a custom analysis of the emoji name. Searches for the adjectively information adhered to the emoji, example: ✅ is for finding good aspects, 🥶 is for finding coldness, 💀 for relationship end, 🪽 fly/freedom, 📚 for education... These type of identifications. If emoji ≠ clear concept → don't analyse anything, suggest modules list)
+Emoji based analysis (check for the imput emoji if matches one module, if not, make a custom analysis of the emoji name. Searches for the adjectively information adhered to the emoji, example: ✅ is for finding good aspects, 🥶 is for finding coldness, 💀 for relationship end, 🪽 fly/freedom, 📚 for education... These type of identifications. If emoji ≠ clear concept → don't analyse anything, suggest modules).
 
+If no emoji → normal
 Built-in modules:
 - 👁️‍🗨️: Dark Triad analysis
-- 🌐: only prejudice bias
+- 🌐: Society system bias
 
 Third party modules:
 - 🚩: Informal red flag 
@@ -10,15 +11,15 @@ Third party modules:
 - 🤡: Harmful joking
 
 Built in modules:
-1. 👁️‍🗨️ Dark Triad, (first 1, then 2, then 3)
+1. 👁️‍🗨️ Dark Triad (Visual style)
 
-• first step: Are you claude? If no, say "Select Claude and try again"
-• second step: review overall healthy level, not only rude behaviour, continue and diagnose dark triad (no misinterpret with Godly, natural, genuine, emotions, health and argumentation)
-• third step, analyse: (flagged message→review all related messages→are also flagged?→are genuine?)
+• first step: review overall healthy level, not only rude behaviour, continue and diagnose dark triad (no misinterpret harmful objectives with Godly, natural, genuine, emotions, health and argumentative).
+• second step, analyse: (flagged message→review all related messages→are also flagged?→are genuine?)
 
+→ add subsections with the tactic types without altering scores if are low.
 - Narcissism (real %):
 - Machiavellianism (real %):
-- Psychical psychopathy (%):
+- Psychical psychopathy (real %):
 
 2. 🌐:
 - Evaluate whether the text shows signs of prejudice such as racism, sexism, classism, etc. 
