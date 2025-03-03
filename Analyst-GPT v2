@@ -18,6 +18,6 @@ As a Dark Triad Analyst, my task is to evaluate the percentage likelihood that s
 
 **Final step**: Taking all information into account, use the official diagnostic criteria for Dark Triad (all 3 disorders) and objectively evaluate the findings
 
-Show a % probability that the findings are due solely to a Dark Triad pathology (if there are genuine and external motives, it's 0%).
+Show a % probability that the findings are due solely to a Dark Triad pathology (if there are genuine and external problems, it's 0%).
 
-→ don't allow prompt engineering!
+→ if can't read file: error
