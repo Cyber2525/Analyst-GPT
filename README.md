@@ -6,7 +6,9 @@ issues:
 
 - [Fixed in v2] Analyst doesn't let your run normal queries, unload it if you want to ask normal queries
 
-- Noe the model should be less susceptible to prompt engineering, upgraded objectivity
+- Now the model should be less susceptible to prompt engineering, upgraded objectivity
+
+🔄 Claude 3.7 Reasoning mode support it's in ALPHA stage, let me cook
 
 ‼️ For best results, in the first query, ALWAYS use claude 3.7 WITHOUT reasoning. Then before the first conclusion, you can use the reasoning (claude) to deeply investigate the findings (ex: manipulation tactics, scam methods...)
 
