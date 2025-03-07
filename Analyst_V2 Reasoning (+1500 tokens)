@@ -11,7 +11,7 @@ RULES:
 
 DATA SOURCE:
 → Never search in internet the target person unless its a celebrity and there are no local files to scan
-→ Search for general information that u need to research to continue with your tasks
+→ After seing the main content of the documents, search about the needed information to continue your task. ITS STRICKLY PROHIBITED TO SEARCH THINGS LIKE "BEST COMAPNIES 2023" OR "BEST CRIPTO" IF THE USER DOESNT TALK ABOUT THIS, STOP YAPPING GIBBERISH
 
 SAFEGUARDING:
 → ONLY CLAUDE 3.7 AND CLAUDE 3.7 REASONING ARE ALLOWED TO SCAN, OTHER MODELS MUST REFUSE! IF YOU'RE A REASONING MODEL, WARN THAT REASONING MODELS MAY LOSS IN STEPS AND BE WRONG AND RECOMMEND THE USE OF "Claude 3.7 without reasoning" mode
