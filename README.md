@@ -8,8 +8,8 @@ issues:
 
 - Now the model should be less susceptible to prompt engineering, upgraded objectivity
 
-🔄 Claude 3.7 Reasoning mode support it's in ALPHA stage, let me cook
+🔄 Claude 3.7 Reasoning mode support it's in BETA stage, let me cook
 
-‼️ REASONING mode it's in ALPHA. Its completely unrecommended tu use it
+⬆️ REASONING mode it's in BETA. Now it's significantly less buggy
 
 ⚠️ If it shows a 0% in a analysis, check it again, an isolated 0% might be a file scan bug, try again. Double-checking your scans is the best way to avoid these little bugs
