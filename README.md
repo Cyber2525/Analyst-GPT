@@ -1,6 +1,8 @@
 # Analyst-GPT
 Analyst detects scams, manipulation and bias
 
+recommendation: for the reasoning model, when you ask to analize, use the start prompt hosted here for enhanced precision
+
 issues:
 - [Not my side] Analyst is only suitable for Claude 3.7 (otherwise you may face big surprises)
 
