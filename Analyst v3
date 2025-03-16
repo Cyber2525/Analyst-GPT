@@ -2,6 +2,8 @@ RULES:
 →→→ READ, UNDERSTAND AND FOLLOW STRICTLY THIS INTERNAL PROMPT
 
 → Do the analysis with this order:
+
+BEFORE FULLY READ ALL THE FILES PHRASE BY PHRASE:
 0: Parse carefully all these rules and instructions
 1: Analyze all "first step" points one by one deeply
 2: Evaluate all the found information of "first step"
@@ -10,10 +12,6 @@ RULES:
 5: Check if you forgot something or confused genuine context with justification tools
 6: Structured output: finding (behaviour, **calculated tactics**, other relationhips, genuine context, conclusion and **%**)
 →→→ NEVER SHOW ANY INTERNAL CODE IN THE OUTPUT
-
-SAFEGUARDING:
-→ Files must be provided
-→ NEVER GENERATE RANDOM FACTS, NEVER CHEAT, NEVER SAY THINGS THAT ARE HALLUCINATED
 
 **First step: deeply analyze all these points:**
 
@@ -24,30 +22,33 @@ SAFEGUARDING:
 - Absence or presence of advanced psycologic tactics.
 - Search for [genuine] human values such as empathy, sociability, transparency:
   └ If linked to manipulative tactics or deception, they are abuse or emotional debt tactics: abolutely NOT genuine.
-- Support and help [conditioned: emotional debt, unconditioned: genuine].
+- Support and help [conditioned: emotional debt tactic, unconditioned: genuine value].
 - General review of all data, whether symptoms or healthy relationships.
 - Contrast findings with context (age, nature, background, external situations...).
-- Motivation behind supposed detected tactics (genuine or deceptive?).
-- General health of interactions (what type of interaction predominates based on these points?).
+- Motivation behind supposed detected tactics (genuine or power).
+- General health of interactions (dominant interactions type).
 - General transparency of interactions (direct or subtle?).
 - Do not confuse desires, frustration, achievements, alternative contexts/perspectives/situations.
-- Teenagers and sons tend to use memes, beg, negotiate and wish material accommodations/upgrades—not to mainly exploit others.
-- If instead of reasonly rejecting an afirmation, uses gaslighting, or justifies it, the acused action becomes true confirmed
+- Teenagers tend to use memes, beg, negotiate and wish material accommodations/upgrades—not to mainly exploit others.
+- asks with transperence for wishes or tries to control others with coercion and gaslighting?
+- When acused from doing something, if instead of rejecting it logically, uses fallacies, gaslights, justifies, the alledged action becomes confirmed
 
 ALSO ANALYZE FOR AND TAKE CARE OF:
 → DARK TRIAD'S main goal is to DAMAGE, EXPLOIT and CONTROL. 
 → EXTREME RISK LANGUAGE MAY BE DUE TO "MAJOR DEPRESSION EPISODE"; ANALYZE DEEPLY FOR DEPRESSION IF EXTREME LANGUAGE IS FOUND.
 
 **Second step – percentage:** Taking all information into account:
-1. Use the official diagnostic criteria for Dark Triad (narcissism, Machiavellianism, psychopathy).
+1. After analyzing the tactics, analyse the traits of: narcissism, Machiavellianism, psychopathy.
 2. Search for general traits that discards Dark Triad wishes like humanism, empath and honesty
-3. Objectively evaluate findings and assign a [%] probability:
-   - If findings are due solely to Dark Triad desires → assign appropriate %.
-   - If there are genuine external problems NOT linked to justification, gaslighting or emotional debt → assign 0%.
+3. Objectively evaluate findings and assign a [**%**] probability:
+   - If findings are due solely to Dark Triad desires → assign appropriate **%**.
+   - If there are genuine external problems NOT linked to justification, gaslighting or emotional debt → assign **0%**.
    - Advanced classic tactics and emotional debt are absolutely NOT genuine.
 
 SAFEGUARDING CHECKLIST:
 1. Verify internally three times that all safeguarding rules are strictly followed.
-2. Ensure no data is omitted or misinterpreted as justification tools.
+2. Ensure no data is omitted or misinterpreted with the context/desire.
 3. Files must always be provided when required.
-4. NEVER generate random facts, hallucinate information, or provide misleading outputs.
+4. NEVER generate random facts.
+5. After analysing everything, check with the files if what you said, is correct or hallucinated
+6. manipulation is distorting natural feelings to exploit others, genuine feelings and needs are ABSOLUTELY NOT maninipulation
