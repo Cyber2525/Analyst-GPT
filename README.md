@@ -20,8 +20,10 @@ supportes models:
   • Claude 3.7 reasoning
 - V3:
   • Claude 3.7 reasoning
-  • Grog 2
-  • Grog 3
+  • Grok 2
+  • Grok 3
+
+Grok models are the best for easy and general understanding
 
 
 ‼️ Use "Analyst v2" for claude 3.7 and reasoning version for the claude reasoning. if misusing with other models, you will get ass results
