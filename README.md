@@ -14,16 +14,12 @@ supportes models:
 -
 - Analyst v1 (deprecated)
   • Claude 3.7
-- Analyst V2:
+- Analyst V2 unstable:
   • Claude 3.7
-- Analyst V2 reasoning:
+- Analyst V2 reasoning (unstable):
   • Claude 3.7 reasoning
-- V3:
+- V3 (beta):
   • Claude 3.7 reasoning
-  • Grok 2
-  • Grok 3
-
-Grok models are the best for easy and general understanding
 
 
 ‼️ Use "Analyst v2" for claude 3.7 and reasoning version for the claude reasoning. if misusing with other models, you will get ass results
