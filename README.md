@@ -10,10 +10,20 @@ issues:
 
 - Now the model should be less susceptible to prompt engineering, upgraded objectivity
 
-🔄 Claude 3.7 Reasoning mode support it's in BETA stage, let me cook
+supportes models:
+-
+- Analyst v1 (deprecated)
+  • Claude 3.7
+- Analyst V2:
+  • Claude 3.7
+- Analyst V2 reasoning:
+  • Claude 3.7 reasoning
+- V3:
+  • Claude 3.7 reasoning
+  • Grog 2
+  • Grog 3
 
-⬆️ REASONING mode it's in BETA. Now it's significantly less buggy
 
 ‼️ Use "Analyst v2" for claude 3.7 and reasoning version for the claude reasoning. if misusing with other models, you will get ass results
 
-⚠️ If it shows a 0% in a analysis, check it again, an isolated 0% might be a file scan bug, try again. Double-checking your scans is the best way to avoid these little bugs
+⚠️ If it shows a stunning result, check it again, an isolated stunning result might be a bias
