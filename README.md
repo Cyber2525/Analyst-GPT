@@ -21,6 +21,8 @@ supportes models:
 - V3 (beta):
   • Claude 3.7 reasoning
 
+  Analyst v3 ans Psicologist with o4 mini high
+
 
 ‼️ Use "Analyst v2" for claude 3.7 and reasoning version for the claude reasoning. if misusing with other models, you will get ass results
 
